@@ -1,1 +1,1 @@
-fsfda;m
+public static void main {}
